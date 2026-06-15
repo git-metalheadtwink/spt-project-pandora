@@ -1,0 +1,895 @@
+{
+  "EnableConfig": true,
+  "Items": {
+    "aaaafb4c1a2924f1bb2e5a72": {
+      "ItemName": "12/70 5.25mm buckshot",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "4d68688996458321707b2a13": {
+      "ItemName": "12/70 8.5mm Magnum buckshot",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "7122049bf7ec8869a1df0558": {
+      "ItemName": "12/70 7mm buckshot",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "ec42696292ff8e8d71c1c2d6": {
+      "ItemName": "12/70 6.5mm Express buckshot",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "b49a1ea0f5a9a9bf7e6df36e": {
+      "ItemName": "12/70 Piranha",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "3c50e8917d09133ce034d06b": {
+      "ItemName": "12/70 flechette",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "1c9c5156b2770ac7c6699c8d": {
+      "ItemName": "12/70 RIP",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "a553486b6e6791cbc9efbcdf": {
+      "ItemName": "12/70 SuperFormance HP slug",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "fc133efa3747435fe8ffc502": {
+      "ItemName": "12/70 Grizzly 40 slug",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "f9d4882ab57c86670d067ee4": {
+      "ItemName": "12/70 Copper Sabot Premier HP slug",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "84c77165ca545a384aff93c9": {
+      "ItemName": "12/70 lead slug",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "54c37a736e89a23ba245714f": {
+      "ItemName": "12/70 Dual Sabot slug",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "b8c36fa6c69ac74ab79e8072": {
+      "ItemName": "12/70 Poleva-3 slug",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "9e6c084946d8d8fc03a060f6": {
+      "ItemName": "12/70 FTX Custom Lite slug",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "4e708277a8286f5fefd8db64": {
+      "ItemName": "12/70 Poleva-6u slug",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "e551e8d2d7c529fa01ab8f77": {
+      "ItemName": "12/70 makeshift .50 BMG slug",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "4084716ca90a7424c39ecea2": {
+      "ItemName": "12/70 AP-20 armor-piercing slug",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "a65f625d2a0c21abc9fa6033": {
+      "ItemName": "20/70 5.6mm buckshot",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "dc78b887a2aec7de2ebbd28c": {
+      "ItemName": "20/70 6.2mm buckshot",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "74966514a56396b651424439": {
+      "ItemName": "20/70 7.5mm buckshot",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "ec7edef78919aa355a6e325f": {
+      "ItemName": "20/70 7.3mm buckshot",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "d0235a3d1082906eb8a5dbd1": {
+      "ItemName": "20/70 Devastator slug",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "af44208bdf89d9e6b0184ef7": {
+      "ItemName": "20/70 Poleva-3 slug",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "ab48aed76011f58f32c0444e": {
+      "ItemName": "20/70 Star slug",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "2d7881c619c669a4fb55c58a": {
+      "ItemName": "20/70 Poleva-6u slug",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "006956f6ca3e7990c2b4a4a8": {
+      "ItemName": "23x75mm Zvezda flashbang round",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "d11692d3b28184416451f248": {
+      "ItemName": "23x75mm Shrapnel-25 buckshot",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "1f45e5599139716e2ac4c34e": {
+      "ItemName": "23x75mm Shrapnel-10 buckshot",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "7d8e484b61da99beec1cd390": {
+      "ItemName": "23x75mm Barrikada slug",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "1bb99389f84331be73489fc6": {
+      "ItemName": "9x18mm PM SP8 gzh",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "bf13b6e724a993a12934dc0a": {
+      "ItemName": "9x18mm PM SP7 gzh",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "1b4858ec1dfa09a4e5f66249": {
+      "ItemName": "9x18mm PM PSV",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "4050175a20a0cb4717a17f23": {
+      "ItemName": "9x18mm PM P gzh",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "6a7c2b28d284578ba6921038": {
+      "ItemName": "9x18mm PM PSO gzh",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "55a0a3dfccb2fa67f9338d68": {
+      "ItemName": "9x18mm PM PS gs PPO",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "44f6d0b6ac8ab749ce329a2c": {
+      "ItemName": "9x18mm PM PRS gs",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "99f337e378ddb52c246a5cf4": {
+      "ItemName": "9x18mm PM PPe gzh",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "2d2d5e313b7998e4fd244da5": {
+      "ItemName": "9x18mm PM PPT gzh",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "bc731d98269311585d959fdc": {
+      "ItemName": "9x18mm PM Pst gzh",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "7f1a3640e679ded2ef3d6d57": {
+      "ItemName": "9x18mm PM RG028 gzh",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "55d1d7e4b0fca8ad0ae19859": {
+      "ItemName": "9x18mm PM BZhT gzh",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "9048688b23568ed8c56221a9": {
+      "ItemName": "9x18mm PMM PstM gzh",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "0916c8002fca352179281af7": {
+      "ItemName": "9x18mm PM PBM gzh",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "c250f3543239412c64bb49b4": {
+      "ItemName": "7.62x25mm TT LRNPC",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "81ba51070e3a07c729db2de7": {
+      "ItemName": "7.62x25mm TT LRN",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "5bbdc8e463ede16ee9f5acbd": {
+      "ItemName": "7.62x25mm TT FMJ43",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "37faa3ab830c142b284c6a51": {
+      "ItemName": "7.62x25mm TT AKBS",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "7d489965201bacc71a5ff65f": {
+      "ItemName": "7.62x25mm TT P gl",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "0d58f5a18c98f7e27bccc64b": {
+      "ItemName": "7.62x25mm TT PT gzh",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "a26116b158bd76627ffea02d": {
+      "ItemName": "7.62x25mm TT Pst gzh",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "37c9687b5acc2c365daf6ec6": {
+      "ItemName": "9x19mm RIP",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "4368550c2ad1c0a787d353bd": {
+      "ItemName": "9x19mm QuakeMaker",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "9d2abc39210f2042e7fd1f51": {
+      "ItemName": "9x19mm PSO gzh",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "a31ad4d01573e65079b94466": {
+      "ItemName": "9x19mm Luger CCI",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "989d69b9fb1eed9122570b7d": {
+      "ItemName": "9x19mm Green Tracer",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "028fb5c715caba0f06c5696b": {
+      "ItemName": "9x19mm FMJ M882",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "79c57d064aaf4c9097ff21ab": {
+      "ItemName": "9x19mm Pst gzh",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "5196c3359c85e5db44462c3b": {
+      "ItemName": "9x19mm AP 6.3",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "f13f8dd80f8ae6c851e31c1c": {
+      "ItemName": "9x19mm PBP gzh",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "35fff9995730535a442b2c1e": {
+      "ItemName": ".45 ACP RIP",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "895fcc0567acdeacfea6b43f": {
+      "ItemName": ".45 ACP Hydra-Shok",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "3091d2d3c33e50726749b7e9": {
+      "ItemName": ".45 ACP Lasermatch FMJ",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "310c8ceda7a3f78649488fa4": {
+      "ItemName": ".45 ACP Match FMJ",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "c14aa3235469d1661b2152dc": {
+      "ItemName": ".45 ACP AP",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "b2e470d109437ecdae39412f": {
+      "ItemName": "9x21mm PE gzh",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "42abaeb8f36ca7bb8eed212c": {
+      "ItemName": "9x21mm P gzh",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "2d64eb62d1c7180902410b68": {
+      "ItemName": "9x21mm PS gzh",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "080679777c63554e076e1ab2": {
+      "ItemName": "9x21mm 7U4",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "e044958f28785632b4c546f3": {
+      "ItemName": "9x21mm BT gzh",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "60cf8d0c6f9808d843b33d6d": {
+      "ItemName": "9x21mm 7N42 Zubilo",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "a077d741d56925f05c9b0192": {
+      "ItemName": ".357 Magnum SP",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "7e33c43ae4868dbcd438af91": {
+      "ItemName": ".357 Magnum HP",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "6d79f29118c60ce6a38c8ba3": {
+      "ItemName": ".357 Magnum JHP",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "3de27d1ceb56093af0b24d25": {
+      "ItemName": ".357 Magnum FMJ",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "1ddf04a9b9749ac6b92a7d4b": {
+      "ItemName": "5.7x28mm R37.F",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "8c743540acffa41da6fbb255": {
+      "ItemName": "5.7x28mm R37.X",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "9fcb1f8e4a2c5b99ac518a77": {
+      "ItemName": "5.7x28mm SS198LF",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "19647fd834226c22817fca49": {
+      "ItemName": "5.7x28mm SS197SR",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "a58a805c0c29ef55c2e108fe": {
+      "ItemName": "5.7x28mm SB193",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "05de25f95c1c23dc09d470e8": {
+      "ItemName": "5.7x28mm L191",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "ac686f53f958283843dbb083": {
+      "ItemName": "5.7x28mm SS190",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "93366ac9fed9564465ccffa6": {
+      "ItemName": "4.6x30mm Action SX",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "8b5bdba81d63332efc995b8b": {
+      "ItemName": "4.6x30mm Subsonic SX",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "a2e57d703b51566cd24d4a9c": {
+      "ItemName": "4.6x30mm JSP SX",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "a190e2b868f89ddca0c85255": {
+      "ItemName": "4.6x30mm FMJ SX",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "24ef955a322f4b98dbd5e6d3": {
+      "ItemName": "4.6x30mm AP SX",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "5fac86d35bc613b00e84ec3b": {
+      "ItemName": "9x39mm FMJ",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "bedd615b2d7d0c2d1052e7ed": {
+      "ItemName": "9x39mm SP-5 gs",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "fcb878e464f057f79141e821": {
+      "ItemName": "9x39mm SPP gs",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "e01708b3d92decc1737d1a5f": {
+      "ItemName": "9x39mm PAB-9 gs",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "a6086e979658c85e168b1cd5": {
+      "ItemName": "9x39mm SP-6 gs",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "1322fe0080f81a202188f75f": {
+      "ItemName": "9x39mm BP gs",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "bf8be5ef5abf243cf553c47a": {
+      "ItemName": ".366 TKM Geksa",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "b7bb9322905462e794b513aa": {
+      "ItemName": ".366 TKM FMJ",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "86c29a2d1c9f6410366fb56e": {
+      "ItemName": ".366 TKM EKO",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "5dc8b2af721fab1a51e43f52": {
+      "ItemName": ".366 TKM AP-M",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "77fa50963b0632b2fdd1b99e": {
+      "ItemName": "5.45x39mm HP",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "ac145d7565d29efb54eadc9a": {
+      "ItemName": "5.45x39mm PRS gs",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "2fed3ad472c0f6219d4b1afd": {
+      "ItemName": "5.45x39mm SP",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "f596cfcdd958e29fa4fefd5a": {
+      "ItemName": "5.45x39mm US gs",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "ca6a218cc701ab9e66ffb19f": {
+      "ItemName": "5.45x39mm T gs",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "b715f98b02eba9dcd1cf98f1": {
+      "ItemName": "5.45x39mm FMJ",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "5493f6d4284228b1339387f9": {
+      "ItemName": "5.45x39mm PS gs",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "bd714affe0642536c55a8508": {
+      "ItemName": "5.45x39mm PP gs",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "ae09f8e83a6a0d944f659cc7": {
+      "ItemName": "5.45x39mm BT gs",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "223bc6f2fc27ec1c5bb5ecee": {
+      "ItemName": "5.45x39mm 7N40",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "c35473bf44de6631a0dcccd0": {
+      "ItemName": "5.45x39mm BP gs",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "926ad19e1a415fb251ee8e0e": {
+      "ItemName": "5.45x39mm BS gs",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "1846c48c08164eefac1f0908": {
+      "ItemName": "5.45x39mm PPBS gs Igolnik",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "60eabbd412bf21433936070f": {
+      "ItemName": "5.56x45mm Warmageddon",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "1a045c15d9671b5c9319ea3b": {
+      "ItemName": "5.56x45mm HP",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "2881499556b0bb0dcb1d82a9": {
+      "ItemName": "5.56x45mm MK 255 Mod 0 (RRLP)",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "b11ba5ef0a5dbeb96f517827": {
+      "ItemName": "5.56x45mm M856",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "3617b736691621611be3ae2d": {
+      "ItemName": "5.56x45mm FMJ",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "b6f07032eeda25aec05e3d57": {
+      "ItemName": "5.56x45mm M855",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "b4b7bc18376cb68e14083d70": {
+      "ItemName": "5.56x45mm MK 318 Mod 0 (SOST)",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "4234739d52ffa916d360e550": {
+      "ItemName": "5.56x45mm M856A1",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "fa982764a99c5dc58697129a": {
+      "ItemName": "5.56x45mm M855A1",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "56e83fca6d3f4378ebd7baf2": {
+      "ItemName": "5.56x45mm M995",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "557b39e8f6ad40040be02955": {
+      "ItemName": "5.56x45mm SSA AP",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "3a48e9397f39fac78eabd802": {
+      "ItemName": "7.62x39mm HP",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "bd7629c1ff28e8d16722942a": {
+      "ItemName": "7.62x39mm SP",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "f55ad6c6229f4976e272b91f": {
+      "ItemName": "7.62x39mm FMJ",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "d9dbde7b434de3a928b34ecd": {
+      "ItemName": "7.62x39mm US gzh",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "d72e38934718687d5208be97": {
+      "ItemName": "7.62x39mm T-45M1 gzh",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "c4e010acb06f23d7e7193550": {
+      "ItemName": "7.62x39mm PS gzh",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "6d913dbbc79041ae39c2c9c1": {
+      "ItemName": "7.62x39mm PP gzh",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "4c5f520392acf2807aca429a": {
+      "ItemName": "7.62x39mm BP gzh",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "c28f3f428506bb4441f7deb4": {
+      "ItemName": "7.62x39mm MAI AP",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "fe72a938a63bde50b08011ce": {
+      "ItemName": ".300 Whisper",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "06321220721a53ecf9982a23": {
+      "ItemName": ".300 Blackout V-Max",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "67635a53f9e05feb0f349ade": {
+      "ItemName": ".300 Blackout BCP FMJ",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "dc3d5b6f4f46544677952a22": {
+      "ItemName": ".300 Blackout M62 Tracer",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "669ac8dbc99ff5b1cdb7977c": {
+      "ItemName": ".300 Blackout CBJ",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "82718587c0c1d87e9a898787": {
+      "ItemName": ".300 Blackout AP",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "6981c470bbc778a0ee585a8e": {
+      "ItemName": "6.8x51mm SIG FMJ",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "247089328684ff3f557da90e": {
+      "ItemName": "6.8x51mm SIG Hybrid",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "b30948019da1de7888a91d5f": {
+      "ItemName": "7.62x51mm Ultra Nosler",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "f99d63ccabbf0577fb16c8d5": {
+      "ItemName": "7.62x51mm TCW SP",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "c92b316940d97b17e21e8c46": {
+      "ItemName": "7.62x51mm BCP FMJ",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "3faea357452406db1a1c5b8f": {
+      "ItemName": "7.62x51mm M80",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "92ebcdf2e23c62ca906e3c0e": {
+      "ItemName": "7.62x51mm M62 Tracer",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "a58db54fd05524847bc684c7": {
+      "ItemName": "7.62x51mm M61",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "ea2cb432d5f60d4a85acf0b7": {
+      "ItemName": "7.62x51mm M993",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "aaaafb4c1a2924f1bb2e5a73": {
+      "ItemName": "7.62x51mm M80A1",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "a5e97a57e602a2c5c5f86c55": {
+      "ItemName": "7.62x54mm R HP BT",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "fdf91c1a0e98eafb3c530016": {
+      "ItemName": "7.62x54mm R SP BT",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "c299b858c533c830ddf78425": {
+      "ItemName": "7.62x54mm R FMJ",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "f32b43e7c9f9ee0ae25791c8": {
+      "ItemName": "7.62x54mm R T-46M gzh",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "39d162e3bd2a8fb4fbd43879": {
+      "ItemName": "7.62x54mm R LPS gzh",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "853d4df1d344f88134469ad9": {
+      "ItemName": "7.62x54mm R PS gzh",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "dba6b409498f62f33611646a": {
+      "ItemName": "7.62x54mm R BT gzh",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "3f031b9c7b54b01e0be9d116": {
+      "ItemName": "7.62x54mm R SNB gzh",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "0f59788a453be8034431e0f6": {
+      "ItemName": "7.62x54mm R BS gs",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "2b1a8bfdce6a38bd009e6490": {
+      "ItemName": "12.7x55mm PS12A",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "57b783cf75871a2a44d8a3a6": {
+      "ItemName": "12.7x55mm PS12",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "0cce5377e71ee812db636c8f": {
+      "ItemName": "12.7x55mm PS12B",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "9902287a994a60a640325440": {
+      "ItemName": ".338 Lapua Magnum TAC-X",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "70c10ab1a35d9728e5a2e5ac": {
+      "ItemName": ".338 Lapua Magnum UCW",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "acc6a63e1dc29a15df0ad9da": {
+      "ItemName": ".338 Lapua Magnum FMJ",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "31ea05b3d85163a30ef6185c": {
+      "ItemName": ".338 Lapua Magnum AP",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "73c2401ec9505f51aac738c2": {
+      "ItemName": ".50 AE JHP",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "82b9d75b83abea4c0d714b23": {
+      "ItemName": ".50 AE Hawk JSP",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "b57a3191cec0b492876ddba1": {
+      "ItemName": ".50 AE Copper Solid",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "5d6912079c01b248847b0d28": {
+      "ItemName": ".50 AE FMJ",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "227b1f7886337a62dcdcf866": {
+      "ItemName": "Documents case",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "1eec3cc9ad0e0fd41b44cba4": {
+      "ItemName": "Dogtag case",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "d262d2fae263ef126d3a6b98": {
+      "ItemName": "Ammunition case",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "3e1876d56acb30d988cde529": {
+      "ItemName": "Pistol case",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "1f5eb95c409c95673bcea438": {
+      "ItemName": "Magazine case",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "32ae8af7629b5d7ac7549a23": {
+      "ItemName": "Weapon case",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "262c7946254b36d2773296f9": {
+      "ItemName": "T H I C C item case",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "262c7946254b36d2773286f9": {
+      "ItemName": ".50 BMG HP",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "262c7946254b36d2573286f9": {
+      "ItemName": ".50 BMG M21",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "262c7946254d36d2573286f9": {
+      "ItemName": ".50 BMG M33",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "262c7942254b36d2573286f9": {
+      "ItemName": ".50 BMG M903 SLAP",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "263c7942254b36d2573286f9": {
+      "ItemName": "40x46mm M386 (HE) grenade",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    },
+    "273c7942254b36d2573286f9": {
+      "ItemName": "40mm VOG-25 grenade",
+      "PriceMultiplier": 1,
+      "StockCount": 0
+    }
+  }
+}

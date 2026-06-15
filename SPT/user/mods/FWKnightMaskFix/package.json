@@ -1,0 +1,9 @@
+{
+  "name": "FWKnightMaskFix",
+  "version": "1.0.0",
+  "author": "Flex Wayne",
+  "sptVersion": "^4.0.0",
+  "license": "MIT",
+  "main": "FWKnightMaskFix.dll",
+  "description": "Fixes missing Death Knight mask texture"
+}

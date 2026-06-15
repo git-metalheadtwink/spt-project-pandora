@@ -1,0 +1,57 @@
+# ignore everything by default
+*
+
+# allow git metadata
+!.gitignore
+
+# -------------------------
+# WHITELIST ROOT FOLDERS
+# -------------------------
+
+!/SPT/
+!/SPT/user/
+!/BepInEx/
+
+# Default config files inscase you somehow break your instance.
+!/.BACKUP/
+
+# -------------------------
+# ALLOW REQUIRED CONTENT
+# -------------------------
+
+# Manifest containing info about modpack.
+!manifest.json
+
+# SPT server data
+!/SPT/user/mods/
+!/SPT/user/mods/**
+
+# SPT server config
+!/SPT/SPT_Data/
+!/SPT/SPT_Data/configs/
+!/SPT/SPT_Data/configs/**
+
+# BepInEx config
+!/BepInEx/config/
+!/BepInEx/config/**
+
+# Plugin folder
+!/BepInEx/plugins/
+!/BepInEx/plugins/**
+
+# BAckup files
+!/.BACKUP/BepInEx/
+!/.BACKUP/BepInEx/config/
+!/.BACKUP/BepInEx/config/**
+
+# -------------------------
+# BLACKLIST FOLDERS AND FILES
+# -------------------------
+
+# Modifying these files will likely break your installation.
+BepInEx/plugins/spt/**
+BepInEx/config/BepInEx.cfg
+BepInEx/config/com.bepis.bepinex.configurationmanager.cfg
+
+# This one ignored just because file is too big and is an optional client-side only not worth uploading everytime
+BepInEx/plugins/HollywoodFX/

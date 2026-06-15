@@ -1,0 +1,6 @@
+{
+    "AllowShowFriendlyPlayerMarkersInRaid": true,
+    "AllowShowEnemyPlayerMarkersInRaid": false,
+    "AllowShowBossMarkersInRaid": false,
+    "AllowShowScavMarkersInRaid": false
+}
