@@ -1,0 +1,14 @@
+{
+  "name": "My SPT Modpack",
+  "description": "Peak CO-OP SPT experience.",
+  "spt_version": "4.0.13",
+
+  "compatibility": {
+    "spt_min": "4.0.13",
+    "spt_max": "4.0.99",
+  },
+
+  "changelog": [
+    "Initial release"
+  ]
+}

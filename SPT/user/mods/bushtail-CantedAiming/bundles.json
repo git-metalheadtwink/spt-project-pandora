@@ -1,0 +1,8 @@
+{
+    "manifest": [
+        {
+            "key": "mount_canted_aim.bundle",
+            "dependencyKeys": []
+        }
+    ]
+}

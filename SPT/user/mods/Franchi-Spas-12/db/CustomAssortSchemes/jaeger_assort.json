@@ -1,0 +1,85 @@
+{
+    "JAEGER": {
+  "items": [
+    {
+      "_id": "6a235342e61c9b74804b78fb",
+      "_tpl": "6a22b76bbe1815d0c5c0f903",
+      "parentId": "hideout",
+      "slotId": "hideout",
+      "upd": {
+        "StackObjectsCount": 1,
+        "UnlimitedCount": false,
+        "Repairable": {
+          "Durability": 100,
+          "MaxDurability": 100
+        },
+        "FireMode": {
+          "FireMode": "single"
+        },
+        "BuyRestrictionMax": 1
+      }
+    },
+    {
+      "_id": "6a235340e61c9b74804b7625",
+      "_tpl": "6a22fa78be1815d0c5c0f90f",
+      "parentId": "6a235342e61c9b74804b78fb",
+      "slotId": "mod_barrel"
+    },
+    {
+      "_id": "6a235340e61c9b74804b7626",
+      "_tpl": "6a22f74bbe1815d0c5c0f905",
+      "parentId": "6a235342e61c9b74804b78fb",
+      "slotId": "mod_handguard"
+    },
+    {
+      "_id": "6a235340e61c9b74804b7627",
+      "_tpl": "6a22f92bbe1815d0c5c0f909",
+      "parentId": "6a235342e61c9b74804b78fb",
+      "slotId": "mod_magazine"
+    },
+    {
+      "_id": "6a235340e61c9b74804b7628",
+      "_tpl": "6a22f878be1815d0c5c0f907",
+      "parentId": "6a235342e61c9b74804b78fb",
+      "slotId": "mod_stock"
+    },
+    {
+      "_id": "6a235340e61c9b74804b7629",
+      "_tpl": "6a22f9ddbe1815d0c5c0f90d",
+      "parentId": "6a235342e61c9b74804b78fb",
+      "slotId": "mod_sight_rear",
+      "upd": {
+        "Sight": {
+          "ScopesCurrentCalibPointIndexes": [
+            0
+          ],
+          "ScopesSelectedModes": [
+            0
+          ],
+          "SelectedScope": 0,
+          "ScopeZoomValue": 0
+        }
+      }
+    },
+    {
+      "_id": "6a235340e61c9b74804b762a",
+      "_tpl": "6a2346cea7592c0b0da6207f",
+      "parentId": "6a235340e61c9b74804b7628",
+      "slotId": "mod_stock"
+    }
+  ],
+  "barter_scheme": {
+    "6a235342e61c9b74804b78fb": [
+      [
+        {
+          "count": 37462,
+          "_tpl": "5449016a4bdc2d6f028b456f"
+        }
+      ]
+    ]
+  },
+  "loyal_level_items": {
+    "6a235342e61c9b74804b78fb": 2
+  }
+    }
+}
