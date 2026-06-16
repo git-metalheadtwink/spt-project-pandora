@@ -1,0 +1,11 @@
+{
+  "Name": "Less Difficult [Modified]",
+  "Description": "[Modified] Bots react more slowly, and are less accurate than usual.",
+  "Creator": "user",
+  "SAINVersion": "4.4.3",
+  "SAINPresetVersion": "4.4.0",
+  "DateCreated": "06/15/2026 00:00:00",
+  "BaseSAINDifficulty": "lesshard",
+  "IsCustom": true,
+  "CanEditName": true
+}
