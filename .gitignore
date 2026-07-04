@@ -3,6 +3,9 @@
 
 # allow git metadata
 !.gitignore
+!.gitattributes
+!/.gitfilters/
+!/.gitfilters/**
 
 # -------------------------
 # WHITELIST ROOT FOLDERS
