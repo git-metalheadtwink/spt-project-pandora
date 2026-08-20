@@ -54,11 +54,11 @@
   "carKitHeavyBleedingHealCost": 100,
   "carKitCanHealLightBleeding": true,
   "carKitLightBleedingHealCost": 50,
-  "carKitCanDoSurgery": false,
+  "carKitCanDoSurgery": true,
   "carKitSurgeryCost": 200,
 
   "salewaChanges": true,
-  "salewaHP": 650,
+  "salewaHP": 450,
   "salewaCanHealFractures": true,
   "salewaFractureHealCost": 100,
   "salewaCanHealHeavyBleeding": true,
@@ -76,7 +76,7 @@
   "ifakHeavyBleedingHealCost": 175,
   "ifakCanHealLightBleeding": true,
   "ifakLightBleedingHealCost": 30,
-  "ifakCanDoSurgery": false,
+  "ifakCanDoSurgery": true,
   "ifakSurgeryCost": 350,
 
   "afakChanges": true,
@@ -87,7 +87,7 @@
   "afakHeavyBleedingHealCost": 175,
   "afakCanHealLightBleeding": true,
   "afakLightBleedingHealCost": 30,
-  "afakCanDoSurgery": false,
+  "afakCanDoSurgery": true,
   "afakSurgeryCost": 370,
   
   "ai2Changes": true,
@@ -98,6 +98,6 @@
   "ai2HeavyBleedingHealCost": 100,
   "ai2CanHealLightBleeding": true,
   "ai2LightBleedingHealCost": 30,
-  "ai2CanDoSurgery": false,
+  "ai2CanDoSurgery": true,
   "ai2SurgeryCost": 200
 }

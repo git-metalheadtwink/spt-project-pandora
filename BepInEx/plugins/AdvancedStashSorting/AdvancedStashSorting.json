@@ -1,0 +1,97 @@
+{
+  "Sort": {
+    "SortOrder": [
+      {
+        "Type": "Category",
+        "Enabled": true,
+        "Direction": "Ascending"
+      },
+      {
+        "Type": "Size",
+        "Enabled": true,
+        "Direction": "Descending"
+      },
+      {
+        "Type": "Rarity",
+        "Enabled": false,
+        "Direction": "Ascending"
+      },
+      {
+        "Type": "Amount",
+        "Enabled": true,
+        "Direction": "Descending"
+      }
+    ],
+    "CategoryOrder": [
+      "containers",
+      "money",
+      "ammo",
+      "ammo_boxes",
+      "grenades",
+      "medkits",
+      "drugs",
+      "stimulators",
+      "medicals",
+      "food",
+      "drinks",
+      "weapons",
+      "magazines",
+      "headphones",
+      "headwear",
+      "face_covers",
+      "visors",
+      "ae_other",
+      "armor",
+      "vests",
+      "plates",
+      "backpacks",
+      "keys",
+      "keycards",
+      "muzzles",
+      "sights",
+      "foregrips",
+      "bipods",
+      "flashlights",
+      "tactical_combos",
+      "gas_blocks",
+      "auxiliary_mods",
+      "stocks",
+      "charges",
+      "launchers",
+      "mounts",
+      "barrels",
+      "handguards",
+      "receivers",
+      "pistol_grips",
+      "dogtags",
+      "barter",
+      "info",
+      "flyers",
+      "specs",
+      "maps",
+      "arm_bands",
+      "knives",
+      "repair_kits",
+      "other"
+    ],
+    "Fold": true,
+    "Stack": true,
+    "Nesting": false,
+    "RecursiveNesting": false,
+    "CompactSorting": true,
+    "Separation": false
+  },
+  "Rarity": {
+    "Preset": "Original",
+    "CustomColors": [
+      "#1D1D1D",
+      "#7F7F7F",
+      "#152D00",
+      "#1C4156",
+      "#4C2A55",
+      "#686628",
+      "#FF3C3C"
+    ]
+  },
+  "ContainerCategories": {}
+}

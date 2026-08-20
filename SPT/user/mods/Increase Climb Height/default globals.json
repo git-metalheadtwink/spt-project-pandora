@@ -1,0 +1,71 @@
+{
+  "VaultingSettings": {
+    "GridSettings": {
+      "GridOffsetX": 0,
+      "GridOffsetY": 0,
+      "GridOffsetZ": 0,
+      "GridSizeX": 0,
+      "GridSizeY": 1.8,
+      "GridSizeZ": 2,
+      "OffsetFactor": 0.1,
+      "SteppingLengthX": 0.1,
+      "SteppingLengthY": 0.1,
+      "SteppingLengthZ": 0.1
+    },
+    "IsActive": true,
+    "MovesSettings": {
+      "ClimbSettings": {
+        "AutoMoveRestrictions": {
+          "IsActive": true,
+          "MaxHeight": 0.41,
+          "MaxLength": 10,
+          "MinDistantToInteract": 0.41,
+          "MinHeight": 0.25,
+          "MinLength": 0.41
+        },
+        "IsActive": true,
+        "MaxOneHandHeight": 1.2,
+        "MaxWithoutHandHeight": 0.65,
+        "MoveRestrictions": {
+          "IsActive": true,
+          "MaxHeight": 1.31,
+          "MaxLength": 10,
+          "MinDistantToInteract": 0.5,
+          "MinHeight": 0.25,
+          "MinLength": 0
+        },
+        "SpeedRange": {
+          "x": 1.1,
+          "y": 0.8,
+          "z": 0
+        }
+      },
+      "VaultSettings": {
+        "AutoMoveRestrictions": {
+          "IsActive": true,
+          "MaxHeight": 0.41,
+          "MaxLength": 0.41,
+          "MinDistantToInteract": 0.41,
+          "MinHeight": 0.25,
+          "MinLength": 0
+        },
+        "IsActive": true,
+        "MaxWithoutHandHeight": 0.65,
+        "MoveRestrictions": {
+          "IsActive": true,
+          "MaxHeight": 1.1,
+          "MaxLength": 0.41,
+          "MinDistantToInteract": 0.5,
+          "MinHeight": 0.25,
+          "MinLength": 0
+        },
+        "SpeedRange": {
+          "x": 1.25,
+          "y": 0.9,
+          "z": 0
+        }
+      }
+    },
+    "VaultingInputTime": 0.6
+  }
+}

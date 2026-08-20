@@ -1,0 +1,13 @@
+[
+  "UniTask.dll",
+  "UniTask.Linq.dll",
+  "UniTask.Addressables.dll",
+  "UniTask.DOTween.dll",
+  "UniTask.TextMeshPro.dll",
+  "VContainer.dll",
+  "Unity.Collections.dll",
+  "ZLinq.dll",
+  "ZLinq.Unity.dll",
+  "ZLinq.Unity.UnityCollectoins.dll", // Yes it's misspelled
+  "ZString.dll"
+]

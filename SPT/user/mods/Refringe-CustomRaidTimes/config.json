@@ -1,0 +1,53 @@
+{
+    "general": {
+        "enabled": true,
+        "debug": false
+    },
+    "raidTimes": {
+        "overrideAll": false,
+        "override": [
+            {
+                "minutes": 60,
+                "weight": 10
+            },
+            {
+                "minutes": 30,
+                "weight": {
+                    "min": 2,
+                    "max": 5
+                }
+            },
+            {
+                "minutes": {
+                    "min": 15,
+                    "max": 20
+                },
+                "weight": 1
+            }
+        ],
+        "customTimes": {
+            "customs": 40,
+            "factoryDay": 20,
+            "factoryNight": 25,
+            "interchange": 40,
+            "laboratory": 35,
+            "labyrinth": 45,
+            "lighthouse": 40,
+            "reserve": 40,
+            "groundZero": 35,
+            "groundZeroHigh": 35,
+            "shoreline": 45,
+            "streets": 50,
+            "woods": 40
+        },
+        "overrideScav": true
+    },
+    "trainSchedule": {
+        "auto": true,
+        "static": {
+            "arriveEarliestMinutes": 20,
+            "arriveLatestMinutes": 25,
+            "trainWaitSeconds": 420
+        }
+    }
+}
