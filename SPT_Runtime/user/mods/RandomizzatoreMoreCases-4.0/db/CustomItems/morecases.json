@@ -1,0 +1,1014 @@
+{
+  "c2f666728bc6cf04292861dc": {
+    "itemTplToClone": "5aafbde786f774389d0cbc0f",
+    "parentId": "5795f317245977243854e041",
+    "handbookParentId": "5b5f6fa186f77409407a7eb7",
+    "overrideProperties": {
+      "Width": 3,
+      "Height": 3,
+      "Weight": 4.5,
+      "Prefab": {
+        "path": "newweaponmodificationscase.bundle",
+        "rcid": ""
+      },
+      "Grids": [
+        {
+          "_id": "newWeaponModsCasegrid",
+          "_name": "main",
+          "_parent": "c2f666728bc6cf04292861dc",
+          "_proto": "55d329c24bdc2d892f8b4567",
+          "_props": {
+            "cellsH": 8,
+            "cellsV": 8,
+            "minCount": 0,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "isSortingTable": false,
+            "filters": [
+              {
+                "Filter": [
+                  "5448fe124bdc2da5018b4567"
+                ],
+                "ExcludedFilter": [
+                  "5448bc234bdc2d3c308b4569"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Weapon Modifications case",
+        "shortName": "Mods Case",
+        "description": "A case specifically designed to contain weapon modifications."
+      }
+    },
+    "fleaPriceRoubles": 1000000,
+    "handbookPriceRoubles": 500000,
+    "addtoTraders": true,
+    "traders": {
+      "MECHANIC": {
+        "e17ad308e0cf64de3d2daccd": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 999999,
+            "buyRestrictionMax": 1,
+            "buyRestrictionCurrent": 0
+          },
+          "barters": [
+            {
+              "count": 9000,
+              "_tpl": "569668774bdc2da2298b4568"
+            }
+          ]
+        },
+        "4cf0effe39cbd48a1b5876da": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 999999,
+            "buyRestrictionMax": 2,
+            "buyRestrictionCurrent": 0
+          },
+          "barters": [
+            {
+              "count": 2,
+              "_tpl": "59faff1d86f7746c51718c9c"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "992d9b71d76828181f7b87ea": {
+    "itemTplToClone": "5aafbde786f774389d0cbc0f",
+    "parentId": "5795f317245977243854e041",
+    "handbookParentId": "5b5f6fa186f77409407a7eb7",
+    "overrideProperties": {
+      "Width": 6,
+      "Height": 3,
+      "Weight": 10,
+      "Prefab": {
+        "path": "newthiccweaponmodificationscase.bundle",
+        "rcid": ""
+      },
+      "Grids": [
+        {
+          "_id": "newThiccWeaponModsCasegrid",
+          "_name": "main",
+          "_parent": "992d9b71d76828181f7b87ea",
+          "_proto": "55d329c24bdc2d892f8b4567",
+          "_props": {
+            "cellsH": 14,
+            "cellsV": 14,
+            "minCount": 0,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "isSortingTable": false,
+            "filters": [
+              {
+                "Filter": [
+                  "5448fe124bdc2da5018b4567"
+                ],
+                "ExcludedFilter": [
+                  "5448bc234bdc2d3c308b4569"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "BackgroundColor": "violet"
+    },
+    "locales": {
+      "en": {
+        "name": "T H I C C Weapon Modifications case",
+        "shortName": "T H I C C Mods Case",
+        "description": "A case specifically designed to contain weapon modifications. But now it's THICC..."
+      }
+    },
+    "fleaPriceRoubles": 10000000,
+    "handbookPriceRoubles": 5000000,
+    "addtoTraders": true,
+    "traders": {
+      "MECHANIC": {
+        "8aad955008f977083fac3c38": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 999999,
+            "buyRestrictionMax": 1,
+            "buyRestrictionCurrent": 0
+          },
+          "barters": [
+            {
+              "count": 60000,
+              "_tpl": "569668774bdc2da2298b4568"
+            }
+          ]
+        }
+      },
+      "REF": {
+        "8aad955008f977083fac3c38": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 999999,
+            "buyRestrictionMax": 1,
+            "buyRestrictionCurrent": 0
+          },
+          "barters": [
+            {
+              "count": 4,
+              "_tpl": "6656560053eaaa7a23349c86"
+            }
+          ]
+        }
+        }
+    }
+  },
+  "ba68f0abbfb06ff3a261cb5f": {
+    "itemTplToClone": "567143bf4bdc2d1a0f8b4567",
+    "parentId": "5795f317245977243854e041",
+    "handbookParentId": "5b5f6fa186f77409407a7eb7",
+    "overrideProperties": {
+      "Width": 4,
+      "Height": 4,
+      "Weight": 4,
+      "Prefab": {
+        "path": "plasticchairwithpileofclothes.bundle",
+        "rcid": ""
+      },
+      "Grids": [
+        {
+          "_id": "chairgrid",
+          "_name": "main",
+          "_parent": "ba68f0abbfb06ff3a261cb5f",
+          "_proto": "55d329c24bdc2d892f8b4567",
+          "_props": {
+            "cellsH": 7,
+            "cellsV": 7,
+            "minCount": 0,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "isSortingTable": false,
+            "filters": [
+              {
+                "Filter": [
+                  "543be5f84bdc2dd4348b456a",
+                  "5448e5284bdc2dcb718b4567",
+                  "5448e53e4bdc2d60728b4567"
+                ],
+                "ExcludedFilter": [
+                  "5795f317245977243854e041"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "BackgroundColor": "violet"
+    },
+    "locales": {
+      "en": {
+        "name": "Equipment Chair",
+        "shortName": "Chair",
+        "description": "Anyone with a confused or cluttered mind, anyone who's always in a rush, anyone who has no more room in their closet, can only rely on one thing... the chair! Ragman was taken aback when you told him that instead of a closet, you'd rather just have a chair to pile up all your gear."
+      }
+    },
+    "fleaPriceRoubles": 3000000,
+    "handbookPriceRoubles": 1500000,
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "4ba71b84b0b05f2518747c16": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": true,
+            "stackObjectsCount": 999999,
+            "buyRestrictionMax": 1,
+            "buyRestrictionCurrent": 0
+          },
+          "barters": [
+            {
+              "count": 1,
+              "_tpl": "59fb042886f7746c5005a7b2"
+            },
+            {
+              "count": 3,
+              "_tpl": "60bf74184a63fc79b60c57f6"
+            },
+            {
+              "count": 1,
+              "_tpl": "60a7acf20c5cb24b01346648"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "22d6ba32465bfbc078635969": {
+    "itemTplToClone": "567143bf4bdc2d1a0f8b4567",
+    "parentId": "5795f317245977243854e041",
+    "handbookParentId": "5b5f6fa186f77409407a7eb7",
+    "overrideProperties": {
+      "Width": 4,
+      "Height": 6,
+      "Weight": 18,
+      "Prefab": {
+        "path": "medicalcabinet.bundle",
+        "rcid": ""
+      },
+      "Grids": [
+        {
+          "_id": "cabinetgrid",
+          "_name": "main",
+          "_parent": "22d6ba32465bfbc078635969",
+          "_proto": "55d329c24bdc2d892f8b4567",
+          "_props": {
+            "cellsH": 14,
+            "cellsV": 14,
+            "minCount": 0,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "isSortingTable": false,
+            "filters": [
+              {
+                "Filter": [
+                  "543be5f84bdc2dd4348b456a",
+                  "5448e5284bdc2dcb718b4567",
+                  "5448e53e4bdc2d60728b4567"
+                ],
+                "ExcludedFilter": [
+                  "5795f317245977243854e041"
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "Equipment Cabinet",
+        "shortName": "Cabinet",
+        "description": "A cabinet specifically designed to contain equipment for your PMC. Probably stolen from one of EMERCOM medical units."
+      }
+    },
+    "fleaPriceRoubles": 8000000,
+    "handbookPriceRoubles": 4000000,
+    "addtoTraders": true,
+    "traders": {
+      "RAGMAN": {
+        "a29da1f1135829ee7ce3546a": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 999999,
+            "buyRestrictionMax": 1,
+            "buyRestrictionCurrent": 0
+          },
+          "barters": [
+            {
+              "count": 1,
+              "_tpl": "ba68f0abbfb06ff3a261cb5f"
+            },
+            {
+              "count": 5,
+              "_tpl": "5bd073c986f7747f627e796c"
+            },
+            {
+              "count": 5,
+              "_tpl": "5fd8d28367cb5e077335170f"
+            },
+            {
+              "count": 5,
+              "_tpl": "5e54f76986f7740366043752"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "1a1d09be383400a9066af46e": {
+    "itemTplToClone": "59fb016586f7746d0d4b423a",
+    "parentId": "5795f317245977243854e041",
+    "handbookParentId": "5b5f6fa186f77409407a7eb7",
+    "overrideProperties": {
+      "Width": 3,
+      "Height": 4,
+      "Weight": 20,
+      "Prefab": {
+        "path": "safe_money.bundle",
+        "rcid": ""
+      },
+      "Grids": [
+        {
+          "_id": "safegrid",
+          "_name": "main",
+          "_parent": "1a1d09be383400a9066af46e",
+          "_proto": "55d329c24bdc2d892f8b4567",
+          "_props": {
+            "cellsH": 14,
+            "cellsV": 14,
+            "minCount": 0,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "isSortingTable": false,
+            "filters": [
+              {
+                "Filter": [
+                  "543be5dd4bdc2deb348b4569",
+                  "57864a3d24597754843f8721"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "BackgroundColor": "violet"
+    },
+    "locales": {
+      "en": {
+        "name": "Safe",
+        "shortName": "Safe",
+        "description": "A safe for keeping all your valuable items, money and jewelry... safe."
+      }
+    },
+    "fleaPriceRoubles": 9000000,
+    "handbookPriceRoubles": 4500000,
+    "addtoTraders": true,
+    "traders": {
+      "JAEGER": {
+        "c1ddad5beb216fbd6d317415": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 999999,
+            "buyRestrictionMax": 1,
+            "buyRestrictionCurrent": 0
+          },
+          "barters": [
+            {
+              "count": 2,
+              "_tpl": "5bc9bc53d4351e00367fbcee"
+            },
+            {
+              "count": 2,
+              "_tpl": "590de71386f774347051a052"
+            },
+            {
+              "count": 2,
+              "_tpl": "62a091170b9d3c46de5b6cf2"
+            },
+            {
+              "count": 2,
+              "_tpl": "5bc9c049d4351e44f824d360"
+            },
+            {
+              "count": 2,
+              "_tpl": "59e3639286f7741777737013"
+            },
+            {
+              "count": 2,
+              "_tpl": "59e3658a86f7741776641ac4"
+            },
+            {
+              "count": 2,
+              "_tpl": "5d235a5986f77443f6329bc6"
+            },
+            {
+              "count": 2,
+              "_tpl": "62a09cfe4f842e1bd12da3e4"
+            },
+            {
+              "count": 2,
+              "_tpl": "5734758f24597738025ee253"
+            },
+            {
+              "count": 2,
+              "_tpl": "573478bc24597738002c6175"
+            },
+            {
+              "count": 2,
+              "_tpl": "59e3647686f774176a362507"
+            },
+            {
+              "count": 2,
+              "_tpl": "59faf7ca86f7740dbe19f6c2"
+            },
+            {
+              "count": 2,
+              "_tpl": "5e54f62086f774219b0f1937"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "59f1025004422c759b64be03": {
+    "itemTplToClone": "5c093db286f7740a1b2617e3",
+    "parentId": "5795f317245977243854e041",
+    "handbookParentId": "5b5f6fa186f77409407a7eb7",
+    "overrideProperties": {
+      "Width": 4,
+      "Height": 8,
+      "Weight": 50,
+      "Prefab": {
+        "path": "fridge.bundle",
+        "rcid": ""
+      },
+      "Grids": [
+        {
+          "_id": "fridgegrid",
+          "_name": "main",
+          "_parent": "59f1025004422c759b64be03",
+          "_proto": "55d329c24bdc2d892f8b4567",
+          "_props": {
+            "cellsH": 14,
+            "cellsV": 14,
+            "minCount": 0,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "isSortingTable": false,
+            "filters": [
+              {
+                "Filter": [
+                  "5af0484c86f7740f02001f7f",
+                  "5e54f6af86f7742199090bf3",
+                  "5bc9be8fd4351e00334cae6e",
+                  "543be6674bdc2df1348b4569",
+                  "6389c6463485cf0eeb260715"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "BackgroundColor": "violet"
+    },
+    "locales": {
+      "en": {
+        "name": "Fridge RZRV-98",
+        "shortName": "Fridge",
+        "description": "Fridge RZRV-98, found randomly by Jaeger while mushroom hunting in the woods. It's still perfectly working... unbelievable!"
+      }
+    },
+    "fleaPriceRoubles": 10000000,
+    "handbookPriceRoubles": 5000000,
+    "addtoTraders": true,
+    "traders": {
+      "JAEGER": {
+        "38aa11c17a8b4f88b2df4354": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 999999,
+            "buyRestrictionMax": 1,
+            "buyRestrictionCurrent": 0
+          },
+          "barters": [
+            {
+              "count": 5,
+              "_tpl": "5e8f3423fd7471236e6e3b64"
+            },
+            {
+              "count": 5,
+              "_tpl": "635a758bfefc88a93f021b8a"
+            },
+            {
+              "count": 5,
+              "_tpl": "60b0f93284c20f0feb453da7"
+            },
+            {
+              "count": 5,
+              "_tpl": "5c0fa877d174af02a012e1cf"
+            },
+            {
+              "count": 2,
+              "_tpl": "5d1b33a686f7742523398398"
+            },
+            {
+              "count": 2,
+              "_tpl": "5d1b376e86f774252519444e"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "73dbd7194e6ec50ef1f6218b": {
+    "itemTplToClone": "5aafbde786f774389d0cbc0f",
+    "parentId": "5795f317245977243854e041",
+    "handbookParentId": "5b5f6fa186f77409407a7eb7",
+    "overrideProperties": {
+      "Width": 5,
+      "Height": 2,
+      "Weight": 7.3,
+      "Prefab": {
+        "path": "thiccammocase.bundle",
+        "rcid": ""
+      },
+      "Grids": [
+        {
+          "_id": "thiccAmmoCasegrid",
+          "_name": "main",
+          "_parent": "73dbd7194e6ec50ef1f6218b",
+          "_proto": "55d329c24bdc2d892f8b4567",
+          "_props": {
+            "cellsH": 14,
+            "cellsV": 14,
+            "minCount": 0,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "isSortingTable": false,
+            "filters": [
+              {
+                "Filter": [
+                  "5485a8684bdc2da71d8b4567",
+                  "543be5cb4bdc2deb348b4568"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "BackgroundColor": "violet"
+    },
+    "locales": {
+      "en": {
+        "name": "T H I C C Ammunition case",
+        "shortName": "T H I C C Ammo",
+        "description": "\"I'M OUT OF AMMO!\" words never spoken by the carrier of this mighty enlarged ammunition container."
+      }
+    },
+    "fleaPriceRoubles": 10000000,
+    "handbookPriceRoubles": 5000000,
+    "addtoTraders": true,
+    "traders": {
+      "PRAPOR": {
+        "b1edeaf2f6541cb63c2d0a8d": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 999999,
+            "buyRestrictionMax": 1,
+            "buyRestrictionCurrent": 0
+          },
+          "barters": [
+            {
+              "count": 2,
+              "_tpl": "5d03794386f77420415576f5"
+            },
+            {
+              "count": 2,
+              "_tpl": "6389c7750ef44505c87f5996"
+            }
+          ]
+        }
+      },
+      "REF": {
+        "a28bf46ca596a0c7787a0063": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 999999,
+            "buyRestrictionMax": 1,
+            "buyRestrictionCurrent": 0
+          },
+          "barters": [
+            {
+              "count": 4,
+              "_tpl": "6656560053eaaa7a23349c86"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "85b220667456d433db894c03": {
+    "itemTplToClone": "5e2af55f86f7746d4159f07c",
+    "parentId": "5795f317245977243854e041",
+    "handbookParentId": "5b5f6fa186f77409407a7eb7",
+    "overrideProperties": {
+      "Width": 5,
+      "Height": 4,
+      "Weight": 16,
+      "Prefab": {
+        "path": "thiccgrenadecase.bundle",
+        "rcid": ""
+      },
+      "Grids": [
+        {
+          "_id": "thiccGrenadeCasegrid",
+          "_name": "main",
+          "_parent": "85b220667456d433db894c03",
+          "_proto": "55d329c24bdc2d892f8b4567",
+          "_props": {
+            "cellsH": 14,
+            "cellsV": 14,
+            "minCount": 0,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "isSortingTable": false,
+            "filters": [
+              {
+                "Filter": [
+                  "5e2af51086f7746d3f3c3402",
+                  "5656eb674bdc2d35148b457c",
+                  "5ede474b0c226a66f5402622",
+                  "5ede475b549eed7c6d5c18fb",
+                  "5ede4739e0350d05467f73e8",
+                  "5f0c892565703e5c461894e9",
+                  "5ede47405b097655935d7d16",
+                  "5ede475339ee016e8c534742",
+                  "5ede47641cf3836a88318df1",
+                  "543be6564bdc2df4348b4568"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "BackgroundColor": "violet"
+    },
+    "locales": {
+      "en": {
+        "name": "T H I C C Grenade case",
+        "shortName": "T H I C C Grenade",
+        "description": "There have been rumors around Tarkov that a big explosion happened somewhere, and no one has a clue why. Apparently, one PMC went missing for weeks recently, and it's thought that he had a grenade box like this one and accidentally set off a grenade inside it."
+      }
+    },
+    "fleaPriceRoubles": 10000000,
+    "handbookPriceRoubles": 5000000,
+    "addtoTraders": true,
+    "traders": {
+      "PRAPOR": {
+        "b8b098ce81e8230e12a4a737": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 999999,
+            "buyRestrictionMax": 1,
+            "buyRestrictionCurrent": 0
+          },
+          "barters": [
+            {
+              "count": 10,
+              "_tpl": "5d0379a886f77420407aa271"
+            },
+            {
+              "count": 4,
+              "_tpl": "5d0377ce86f774186372f689"
+            },
+            {
+              "count": 4,
+              "_tpl": "5d0376a486f7747d8050965c"
+            },
+            {
+              "count": 4,
+              "_tpl": "5d03784a86f774203e7e0c4d"
+            }
+          ]
+        }
+      },
+      "REF": {
+        "afc863c2ee0d03cb94ba5807": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 999999,
+            "buyRestrictionMax": 1,
+            "buyRestrictionCurrent": 0
+          },
+          "barters": [
+            {
+              "count": 4,
+              "_tpl": "6656560053eaaa7a23349c86"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "0e467959521c90b58551ed4b": {
+    "itemTplToClone": "5909d4c186f7746ad34e805a",
+    "parentId": "5795f317245977243854e041",
+    "handbookParentId": "5b5f6fa186f77409407a7eb7",
+    "overrideProperties": {
+      "Width": 4,
+      "Height": 3,
+      "Weight": 4,
+      "Prefab": {
+        "path": "thiccmedcase.bundle",
+        "rcid": ""
+      },
+      "Grids": [
+        {
+          "_id": "thiccMedcasegrid",
+          "_name": "main",
+          "_parent": "0e467959521c90b58551ed4b",
+          "_proto": "55d329c24bdc2d892f8b4567",
+          "_props": {
+            "cellsH": 14,
+            "cellsV": 14,
+            "minCount": 0,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "isSortingTable": false,
+            "filters": [
+              {
+                "Filter": [
+                  "543be5664bdc2dd4348b4569",
+                  "5d1b3a5d86f774252167ba22"
+                ],
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "BackgroundColor": "violet"
+    },
+    "locales": {
+      "en": {
+        "name": "T H I C C Medcase",
+        "shortName": "T H I C C Medcase",
+        "description": "Nobody believed Therapist when she said she could store all her stock inside one simple container. Now you know the secret."
+      }
+    },
+    "fleaPriceRoubles": 10000000,
+    "handbookPriceRoubles": 5000000,
+    "addtoTraders": true,
+    "traders": {
+      "THERAPIST": {
+        "87b94fd21e9f996218bdb5e5": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 999999,
+            "buyRestrictionMax": 1,
+            "buyRestrictionCurrent": 0,
+            "buyRestrictionMax": 1,
+            "buyRestrictionCurrent": 0
+          },
+          "barters": [
+            {
+              "count": 10,
+              "_tpl": "5ed51652f6c34d2cc26336a1"
+            },
+            {
+              "count": 10,
+              "_tpl": "5ed5166ad380ab312177c100"
+            },
+            {
+              "count": 10,
+              "_tpl": "637b6251104668754b72f8f9"
+            },
+            {
+              "count": 10,
+              "_tpl": "5fca138c2a7b221b2852a5c6"
+            },
+            {
+              "count": 10,
+              "_tpl": "5751a89d24597722aa0e8db0"
+            }
+          ]
+        }
+      },
+      "REF": {
+        "5d5f8deac723ac08f711637e": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 999999,
+            "buyRestrictionMax": 1,
+            "buyRestrictionCurrent": 0
+          },
+          "barters": [
+            {
+              "count": 4,
+              "_tpl": "6656560053eaaa7a23349c86"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "a3c2c001eb04d2cc82bd8983": {
+    "itemTplToClone": "5b6d9ce188a4501afc1b2b25",
+    "parentId": "5795f317245977243854e041",
+    "handbookParentId": "5b5f6fa186f77409407a7eb7",
+    "overrideProperties": {
+      "Width": 4,
+      "Height": 7,
+      "Weight": 30,
+      "Prefab": {
+        "path": "weaponrack.bundle",
+        "rcid": ""
+      },
+      "Grids": [
+        {
+          "_id": "weaponRackgrid",
+          "_name": "main",
+          "_parent": "a3c2c001eb04d2cc82bd8983",
+          "_proto": "55d329c24bdc2d892f8b4567",
+          "_props": {
+            "cellsH": 14,
+            "cellsV": 14,
+            "minCount": 0,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "isSortingTable": false,
+            "filters": [
+              {
+                "Filter": [
+                  "5422acb9af1c889c16000029"
+                ],
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "BackgroundColor": "red"
+    },
+    "locales": {
+      "en": {
+        "name": "Weapon Rack",
+        "shortName": "Weapon Rack",
+        "description": "Every time you visited Prapor, you couldn't help but notice the weapon racks neatly arranged in his warehouse, each with a variety of weapons ready to be sold. The availability of weapons has been scarce for years now, which is why he always had a few empty racks set aside. Now, he's selling those too, offering an immense amount of space for your own weapons!"
+      }
+    },
+    "fleaPriceRoubles": 10000000,
+    "handbookPriceRoubles": 5000000,
+    "addtoTraders": true,
+    "traders": {
+      "PRAPOR": {
+        "b794aab7b8f3f18bea2932b0": {
+          "barterSettings": {
+            "loyalLevel": 4,
+            "unlimitedCount": true,
+            "stackObjectsCount": 999999,
+            "buyRestrictionMax": 1,
+            "buyRestrictionCurrent": 0
+          },
+          "barters": [
+            {
+              "count": 12900000,
+              "_tpl": "5449016a4bdc2d6f028b456f"
+            }
+          ]
+        },
+        "324a75cdc566c08d2ff5a27a": {
+          "barterSettings": {
+            "loyalLevel": 3,
+            "unlimitedCount": true,
+            "stackObjectsCount": 999999
+          },
+          "barters": [
+            {
+              "count": 10,
+              "_tpl": "62a0a16d0b9d3c46de5b6e97"
+            },
+            {
+              "count": 1,
+              "_tpl": "6389c92d52123d5dd17f8876"
+            },
+            {
+              "count": 1,
+              "_tpl": "6389c8fb46b54c634724d847"
+            },
+            {
+              "count": 1,
+              "_tpl": "6389c8c5dbfd5e4b95197e6b"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "9356c871d08f21db38e4c6ec": {
+    "itemTplToClone": "5b7c710788a4506dec015957",
+    "parentId": "5795f317245977243854e041",
+    "handbookParentId": "5b5f6fa186f77409407a7eb7",
+    "overrideProperties": {
+      "Width": 3,
+      "Height": 2,
+      "Weight": 3,
+      "Prefab": {
+        "path": "small_toolbox.bundle",
+        "rcid": ""
+      },
+      "Grids": [
+        {
+          "_id": "toolboxgrid",
+          "_name": "main",
+          "_parent": "9356c871d08f21db38e4c6ec",
+          "_proto": "55d329c24bdc2d892f8b4567",
+          "_props": {
+            "cellsH": 8,
+            "cellsV": 8,
+            "minCount": 0,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "isSortingTable": false,
+            "filters": [
+              {
+                "Filter": [
+                  "5448eb774bdc2d0a728b4567",
+                  "5448ecbe4bdc2d60728b4568",
+                  "5447e0e74bdc2d3c308b4567"
+                ],
+                "ExcludedFilter": [
+                  "5448bf274bdc2dfc2f8b456a"
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "BackgroundColor": "blue"
+    },
+    "locales": {
+      "en": {
+        "name": "Toolbox",
+        "shortName": "Toolbox",
+        "description": "When he started his business, Skier didn't know where to put all his junk/random items. He began using this toolbox, stashing all sorts of things in it. It's always been handy for him, but now he owns massive warehouses run by hundreds of workers. You can make good use of it if you want!"
+      }
+    },
+    "fleaPriceRoubles": 300000,
+    "handbookPriceRoubles": 150000,
+    "addtoTraders": true,
+    "traders": {
+      "SKIER": {
+        "7e6037325c2610d7ed2e39d1": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": true,
+            "stackObjectsCount": 999999,
+            "buyRestrictionMax": 2,
+            "buyRestrictionCurrent": 0
+          },
+          "barters": [
+            {
+              "count": 1,
+              "_tpl": "62a0a0bb621468534a797ad5"
+            },
+            {
+              "count": 3,
+              "_tpl": "590c2e1186f77425357b6124"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

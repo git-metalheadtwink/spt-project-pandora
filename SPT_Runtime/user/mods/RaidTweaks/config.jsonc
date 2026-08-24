@@ -1,0 +1,23 @@
+﻿{
+  // Master switch for the mod
+  "Enabled": true,
+
+  // "Multiplier" - scale every map's own raid time by "Multiplier" below.
+  //                 Keeps each map's relative length (Factory stays short, Streets stays long).
+  // "Fixed"      - overwrite every map's raid time with "FixedMinutes" below.
+  "Mode": "Multiplier",
+
+  // Used in "Multiplier" mode. 1 = vanilla, 2 = double length, 0.5 = half length.
+  "Multiplier": 2.0,
+
+  // Used in "Fixed" mode. Raid time in minutes applied to every map.
+  "FixedMinutes": 120,
+
+  // Also scale the time windows of timed extracts (train arrival, time-gated exits) by the same
+  // amount, so they are not all bunched up at the start of a lengthened raid.
+  "ScaleExitTimes": true,
+
+  // Safety rails - every resulting raid time is clamped into this range (minutes)
+  "MinMinutes": 1,
+  "MaxMinutes": 1440
+}

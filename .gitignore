@@ -11,8 +11,9 @@
 # WHITELIST ROOT FOLDERS
 # -------------------------
 
-!/SPT/
-!/SPT/user/
+# SPT 4.1.x moved the server from /SPT/ to /SPT_Runtime/
+!/SPT_Runtime/
+!/SPT_Runtime/user/
 !/BepInEx/
 
 # Default config files inscase you somehow break your instance.
@@ -26,13 +27,13 @@
 !manifest.json
 
 # SPT server data
-!/SPT/user/mods/
-!/SPT/user/mods/**
+!/SPT_Runtime/user/mods/
+!/SPT_Runtime/user/mods/**
 
 # SPT server config
-!/SPT/SPT_Data/
-!/SPT/SPT_Data/configs/
-!/SPT/SPT_Data/configs/**
+!/SPT_Runtime/SPT_Data/
+!/SPT_Runtime/SPT_Data/configs/
+!/SPT_Runtime/SPT_Data/configs/**
 
 # BepInEx config
 !/BepInEx/config/

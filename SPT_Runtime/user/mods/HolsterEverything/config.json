@@ -1,0 +1,13 @@
+{
+  "EnableAllWeapons": true,
+  "EnabledWeaponCategoryNames": [
+    "AssaultRifle",
+    "GrenadeLauncher",
+    "MachineGun",
+    "MarksmanRifle",
+    "RocketLauncher",
+    "SniperRifle",
+    "SpecialWeapon"
+  ],
+  "EnabledWeaponCategoryIds": []
+}
