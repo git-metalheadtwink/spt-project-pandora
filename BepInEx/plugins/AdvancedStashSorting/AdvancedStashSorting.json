@@ -34,7 +34,6 @@
       "medicals",
       "food",
       "drinks",
-      "weapons",
       "magazines",
       "headphones",
       "headwear",
@@ -72,7 +71,17 @@
       "arm_bands",
       "knives",
       "repair_kits",
-      "other"
+      "other",
+      "assault_rifles",
+      "assault_carbines",
+      "submachine_guns",
+      "shotguns",
+      "machine_guns",
+      "marksman_rifles",
+      "sniper_rifles",
+      "pistols",
+      "revolvers",
+      "other_weapons"
     ],
     "Fold": true,
     "Stack": true,
@@ -93,5 +102,10 @@
       "#FF3C3C"
     ]
   },
-  "ContainerCategories": {}
+  "ContainerCategories": {
+    "6a8cb34631e8e86be8e90008": [
+      "barter",
+      "flyers"
+    ]
+  }
 }
