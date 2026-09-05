@@ -104,8 +104,11 @@
   },
   "ContainerCategories": {
     "6a8cb34631e8e86be8e90008": [
+      "dogtags",
       "barter",
-      "flyers"
+      "info",
+      "flyers",
+      "specs"
     ]
   }
 }
