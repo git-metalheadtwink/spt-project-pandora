@@ -1,15 +1,15 @@
 {
   "name": "Project Pandora",
   "description": "Peak CO-OP SPT experience.",
-  "spt_version": "4.1.5",
+  "spt_version": "4.1.6",
 
   "compatibility": {
-    "spt_min": "4.1.5",
+    "spt_min": "4.1.6",
     "spt_max": "4.1.99"
   },
 
   "changelog": [
-    "Rebuilt on SPT 4.1.5",
+    "Rebuilt on SPT 4.1.6",
     "Server moved from /SPT/ to /SPT_Runtime/",
     "co-op beta test"
   ]

@@ -51,7 +51,6 @@
     "allowItemSending": true,
     "itemSendingStorageTime": 7,
     "sentItemsLoseFIR": true,
-    "launcherListAllProfiles": true,
     "sessionTimeout": 5,
     "showDevProfile": true,
     "showNonStandardProfile": true,

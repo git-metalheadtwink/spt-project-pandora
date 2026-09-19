@@ -1,0 +1,162 @@
+{
+  "ambienceEvents": {
+    "gunfireEvents": {
+      "category": "weapons",
+      "eventConfigs": {
+        "firefight": {
+          "usePlayerDirection": true,
+          "minimumSoundTypes": 1,
+          "maximumSoundTypes": 2,
+          "minimumSoundCount": 10,
+          "maximumSoundCount": 25,
+          "minimumSoundGap": 0.5,
+          "maximumSoundGap": 3,
+          "minimumVolume": 0.3,
+          "maximumVolume": 0.8,
+          "minimumTimeToNextAmbience": 120,
+          "maximumTimeToNextAmbience": 240
+        },
+        "intenseFirefight": {
+          "usePlayerDirection": true,
+          "minimumSoundTypes": 2,
+          "maximumSoundTypes": 4,
+          "minimumSoundCount": 10,
+          "maximumSoundCount": 25,
+          "minimumSoundGap": 0.5,
+          "maximumSoundGap": 2,
+          "minimumVolume": 0.5,
+          "maximumVolume": 1,
+          "minimumTimeToNextAmbience": 300,
+          "maximumTimeToNextAmbience": 600,
+          "timeRestriction": "day"
+        }
+      }
+    },
+    "artilleryEvents": {
+      "category": "indirect",
+      "eventConfigs": {
+        "artillery": {
+          "usePlayerDirection": true,
+          "minimumSoundTypes": 1,
+          "maximumSoundTypes": 1,
+          "minimumSoundCount": 4,
+          "maximumSoundCount": 8,
+          "minimumSoundGap": 5,
+          "maximumSoundGap": 7,
+          "minimumVolume": 0.5,
+          "maximumVolume": 1,
+          "minimumTimeToNextAmbience": 540,
+          "maximumTimeToNextAmbience": 900
+        }
+      }
+    },
+    "animalEvents": {
+      "category": "wildlife",
+      "eventConfigs": {
+        "wolf": {
+          "soundTypes": [ "wolf" ],
+          "usePlayerDirection": true,
+          "minimumSoundTypes": 1,
+          "maximumSoundTypes": 1,
+          "minimumSoundCount": 2,
+          "maximumSoundCount": 4,
+          "minimumSoundGap": 10,
+          "maximumSoundGap": 20,
+          "minimumVolume": 0.6,
+          "maximumVolume": 1.0,
+          "minimumTimeToNextAmbience": 1200,
+          "maximumTimeToNextAmbience": 3000,
+          "minimumTimeFromRaidStart": 180,
+          "maximumTimeFromRaidStart": 1200,
+          "timeRestriction": "night"
+        }
+      }
+    }
+  },
+  "soundZones": [
+    {
+      "name": "soundZone_1",
+      "position": {
+        "X": "835.7308",
+        "Y": "-54.40483",
+        "Z": "85.1018",
+        "W": "0"
+      },
+      "rotation": {
+        "X": "0",
+        "Y": "-0.1305262",
+        "Z": "0",
+        "W": "0.9914449"
+      },
+      "scale": {
+        "X": "200",
+        "Y": "50",
+        "Z": "750",
+        "W": "0"
+      }
+    },
+    {
+      "name": "soundZone_2",
+      "position": {
+        "X": "790.7308",
+        "Y": "-54.40483",
+        "Z": "-784.8982",
+        "W": "0"
+      },
+      "rotation": {
+        "X": "0",
+        "Y": "0.2588191",
+        "Z": "0",
+        "W": "0.9659259"
+      },
+      "scale": {
+        "X": "200",
+        "Y": "50",
+        "Z": "750",
+        "W": "0"
+      }
+    },
+    {
+      "name": "soundZone_3",
+      "position": {
+        "X": "-79.26917",
+        "Y": "-24.40483",
+        "Z": "-784.8982",
+        "W": "0"
+      },
+      "rotation": {
+        "X": "0",
+        "Y": "0.7071068",
+        "Z": "0",
+        "W": "0.7071068"
+      },
+      "scale": {
+        "X": "200",
+        "Y": "50",
+        "Z": "750",
+        "W": "0"
+      }
+    },
+    {
+      "name": "soundZone_4",
+      "position": {
+        "X": "-1174.269",
+        "Y": "-24.40483",
+        "Z": "-274.8982",
+        "W": "0"
+      },
+      "rotation": {
+        "X": "0",
+        "Y": "-0.1305262",
+        "Z": "0",
+        "W": "0.9914449"
+      },
+      "scale": {
+        "X": "200",
+        "Y": "50",
+        "Z": "750",
+        "W": "0"
+      }
+    }
+  ]
+}
