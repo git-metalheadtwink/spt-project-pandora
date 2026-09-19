@@ -172,7 +172,7 @@
           "Arms": 1.0,
           "Legs": 1.5
         },
-        "AimPointSpread": 1.0,
+        "AimPointSpread": 0.6,
         "RepickTimeMin": 0.8,
         "RepickTimeMax": 2.5,
         "LimbFalloffStart": 45.0,
@@ -196,7 +196,7 @@
       "IronSightFarMulti": 0.7,
       "IronSightScaleDistanceStart": 40.0,
       "IronSightScaleDistanceEnd": 75.0,
-      "MinAimTime": 0.15,
+      "MinAimTime": 0.12,
       "FasterCQBReactionsGlobal": true,
       "AimDownSightsAimTimeMultiplier": 0.4
     },
