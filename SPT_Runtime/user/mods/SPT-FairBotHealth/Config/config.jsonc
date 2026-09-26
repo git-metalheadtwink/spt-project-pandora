@@ -1,0 +1,40 @@
+﻿{
+  // Bot health is clamped to the player's max health for that body part, times the
+  // multiplier below. Bots and bosses are configured separately.
+  //
+  // "Bosses" covers the bot types on SPT's own boss list (the "bosses" array in its
+  // bot.json): Killa, Tagilla, Gluhar, Shturman, Sanitar, Reshala, Zryachiy, Kaban,
+  // Kollontay, Partisan, Knight and the other two Goons, plus the aggro variants.
+  // "Bots" covers everything else, including the ordinary boss guards, raiders,
+  // rogues, cultists, PMCs and scavs.
+  //
+  // Within each section use either GlobalMultiplier or BodyPartMultipliers, not both.
+
+  "Bots": {
+    "GlobalMultiplier": 0.65, // set to null if using BodyPartMultipliers
+    "BodyPartMultipliers": {
+      // if using BodyPartMultipliers, specify all of them
+      "Chest": null,
+      "Head": null,
+      "Stomach": null,
+      "LeftLeg": null,
+      "RightLeg": null,
+      "LeftArm": null,
+      "RightArm": null
+    }
+  },
+
+  "Bosses": {
+    "GlobalMultiplier": 0.45, // set to null if using BodyPartMultipliers
+    "BodyPartMultipliers": {
+      // if using BodyPartMultipliers, specify all of them
+      "Chest": null,
+      "Head": null,
+      "Stomach": null,
+      "LeftLeg": null,
+      "RightLeg": null,
+      "LeftArm": null,
+      "RightArm": null
+    }
+  }
+}
