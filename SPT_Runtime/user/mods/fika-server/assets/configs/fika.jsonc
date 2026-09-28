@@ -24,7 +24,7 @@
     "fastLoad": false,
     "reviveConfig": {
       "enabled": true,
-      "headshotKills": true,
+      "headshotKills": false,
       "grenadesKills": false,
       "allowLooting": false,
       "maxRevives": 4,
